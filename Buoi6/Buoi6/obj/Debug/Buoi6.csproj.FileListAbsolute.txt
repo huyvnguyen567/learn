@@ -1,0 +1,7 @@
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\bin\Debug\Buoi6.exe.config
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\bin\Debug\Buoi6.exe
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\bin\Debug\Buoi6.pdb
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\obj\Debug\Buoi6.csproj.AssemblyReference.cache
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\obj\Debug\Buoi6.csproj.CoreCompileInputs.cache
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\obj\Debug\Buoi6.exe
+C:\Users\HOANGANH STORE\source\repos\Buoi6\Buoi6\obj\Debug\Buoi6.pdb
